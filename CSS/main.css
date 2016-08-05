@@ -16,3 +16,17 @@ body{
 	background-color:#f2f2f2;
 
 }
+li{
+	list-style-type:none;
+}
+a{
+	color:white;
+	font-size:30px;
+	text-decoration:none;
+
+
+}
+nav{
+
+	background-color:darkred;
+}
